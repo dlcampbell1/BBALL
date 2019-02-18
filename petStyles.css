@@ -1,0 +1,16 @@
+  body {
+                margin: 12px 45px
+            }
+            div {
+                margin: 15px 0;
+                font-size: 18px;
+                    line-height: 22px
+            }
+            .callout {
+                color: #009;
+            }
+
+h1 {
+    color: #009;
+    background-color: #999
+}
